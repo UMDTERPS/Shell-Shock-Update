@@ -32,7 +32,9 @@ Show BASH version
 
 ```bash --version```
 
-Use the 
+Use the "shell_shock_update.sh" scrip to back it up
+
+```./shell_shock_update.sh```
 
 
 
