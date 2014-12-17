@@ -2,6 +2,9 @@ Shell-Shock-Update
 ==================
 This will update bash bug
 
+![alt tag](http://1-ps.googleusercontent.com/xk/N9L3X-V9UrL_eUPKLbuc-HPsGa/www.stevejenkins.com/stevejenkins.com/blog/wp-content/uploads/2014/09/620x375xshellshock.jpg.pagespeed.ic.q4z8ls0VZbEV9gnL6u8k.webp)
+
+
 How to check for shell shock bug
 Exploit 1 (CVE-2014-6271)
 
